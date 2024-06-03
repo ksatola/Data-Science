@@ -106,3 +106,5 @@ https://machinelearningmastery.com/what-is-information-entropy/
 - [Think Stats - Probability and Statistics for Programmers (free ebook)](http://greenteapress.com/thinkstats/)
 
 - [DASCA - Data Scientist Certifications](https://www.dasca.org/data-science-certifications/big-data-scientist)
+
+- [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/) - Discover all you need to know about tech career roadmaps and more about the tech domain!
